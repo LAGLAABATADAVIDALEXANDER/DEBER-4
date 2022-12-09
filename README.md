@@ -29,3 +29,22 @@ Capitulo 8
 
 ![image](https://user-images.githubusercontent.com/116814386/206788952-27132a07-736e-41d4-8ea1-c72786e0fc54.png)
 
+![image](https://user-images.githubusercontent.com/116814386/206795214-6746fe8c-6d4e-46dd-b605-302a947694c3.png)
+
+![image](https://user-images.githubusercontent.com/116814386/206810044-a1b72de5-e65b-42a5-bf91-30b327c7b9b4.png)
+
+
+
+![image](https://user-images.githubusercontent.com/116814386/206811555-defb98cf-1a3f-4a5d-ab59-1c0aa7539e4f.png)
+
+![image](https://user-images.githubusercontent.com/116814386/206812600-17cac37f-b0df-4f73-a8d1-08d08811305c.png)
+
+Ejercicicios Resueltos
+
+Conclusiones
+
+Video 
+
+Bibliografia
+
+
