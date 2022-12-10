@@ -86,17 +86,27 @@ Análisis de circuitos resistivos en serie-paralelo
 
 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
 
+![image](https://user-images.githubusercontent.com/116814386/206866907-3dc96139-6f35-444a-b52e-8051f12c7b6c.png)
+![image](https://user-images.githubusercontent.com/116814386/206866932-4e7d07da-a856-4399-8649-1e816099c472.png)
+
+
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
 
 ![image](https://user-images.githubusercontent.com/116814386/206827472-f871654a-f580-4e3e-a6e7-a6aea938ad9d.png)
 
-SW1 cerrado, SW2 abierto: 220 Æ
+Si SW1 y SW2 estan abiertos Hay dos resistencias en serie que suman 320Ω
 
-SW1 cerrado, SW2 cerrado: 200 Æ
+Si SW1 cerrado y SW2 abierto
 
-SW1 abierto, SW2 abierto: 320 Æ
+220Ω
 
-SW1 abierto, SW2 cerrado: 300 Æ
+SW1 y SW2 estan cerrados
+
+![image](https://user-images.githubusercontent.com/116814386/206867526-e6279c0a-e7b4-4377-bc75-cf8795a8e3a1.png)
+
+Si SW1 abierto y SW2 cerrado
+![image](https://user-images.githubusercontent.com/116814386/206867242-59515914-fb2d-44a9-90e7-ccc661e255f1.png)
+
 
 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
