@@ -84,11 +84,14 @@ Análisis de circuitos resistivos en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/116814386/206825272-9248ea67-2723-4776-8cde-505a3141996b.png)
 
+![image](https://user-images.githubusercontent.com/116814386/207750322-537a0414-d079-4ece-9065-78d683fce347.png)
+
+
 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/116814386/206866907-3dc96139-6f35-444a-b52e-8051f12c7b6c.png)
 ![image](https://user-images.githubusercontent.com/116814386/206866932-4e7d07da-a856-4399-8649-1e816099c472.png)
-
+![image](https://user-images.githubusercontent.com/116814386/207756299-d1eb6519-dc64-47b8-987a-cccd185f682c.png)
 
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
 
@@ -105,6 +108,7 @@ SW1 y SW2 estan cerrados
 ![image](https://user-images.githubusercontent.com/116814386/206867526-e6279c0a-e7b4-4377-bc75-cf8795a8e3a1.png)
 
 Si SW1 abierto y SW2 cerrado
+
 ![image](https://user-images.githubusercontent.com/116814386/206867242-59515914-fb2d-44a9-90e7-ccc661e255f1.png)
 
 
@@ -116,7 +120,11 @@ Si SW1 abierto y SW2 cerrado
 
 ![image](https://user-images.githubusercontent.com/116814386/206827632-0067990e-5930-4543-aa65-0bc82512d216.png)
 
+Medir el voltaje en A con respecto a tierra y el voltaje en B con respecto a tierra. La diferencia es VR2
+
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
+
+![image](https://user-images.githubusercontent.com/116814386/207763516-91e41241-516d-46d1-bf8c-3f1a197ddffe.png)
 
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
 
