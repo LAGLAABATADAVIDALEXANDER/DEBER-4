@@ -287,6 +287,7 @@ Método de la corriente en ramas
 
 ![image](https://user-images.githubusercontent.com/116814386/206828468-64e102cf-bf70-46c1-beee-4cab2232ea59.png)
 
+
 Video 
 
 Bibliografia    
