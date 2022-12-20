@@ -2,7 +2,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS
 
 Nombre:David Lagla
 
-NRC:
+NRC:10063
 
 ING:Darwin Omar Alulema Flores
 
@@ -10,8 +10,15 @@ OBJETIVO GENERAL
 
 OBJETIVOS ESPECÍFICOS
 
+Relacionar los conocimientos acerca de los circuitos en serie y paralelo con circuitos que sean una combinación de estos y además entender ciertos conceptos cómo las conversiones de Fuente de algunos teoremas y la relación que tienen con los circuitos en serie y paralelo 
 
 MARCO TEORICO
+
+Analizar las magnitudes fundamentales en un circuito en serie y paralelo 
+
+Comprender la razón por la cual es posible hacer conversiones de fuente y entender su utilidad en el análisis de circuitos eléctricos 
+
+Entender y comprender la utilidad de ciertos teoremas para el análisis y reducción de circuitos eléctricos
 
 Capitulo 7
 
@@ -76,6 +83,8 @@ Conclusiones
 
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
 
+![image](https://user-images.githubusercontent.com/116814386/208559998-a80647b5-1e35-4f6a-8d38-02871452796c.png)
+
 Análisis de circuitos resistivos en serie-paralelo
 
 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente.
@@ -116,6 +125,10 @@ Si SW1 abierto y SW2 cerrado
 
 ![image](https://user-images.githubusercontent.com/116814386/206827584-c4f02641-9ab1-4de6-a546-7c3d61d54fcc.png)
 
+En a =0V
+
+![image](https://user-images.githubusercontent.com/116814386/208578399-89bde1a9-c839-497f-b6b6-778103321d1a.png)
+
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
 
 ![image](https://user-images.githubusercontent.com/116814386/206827632-0067990e-5930-4543-aa65-0bc82512d216.png)
@@ -132,19 +145,29 @@ Medir el voltaje en A con respecto a tierra y el voltaje en B con respecto a tie
 
 23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:AB, BC y CD.
 
+
 ![image](https://user-images.githubusercontent.com/116814386/206827686-56cd2daa-44b9-45ab-8b88-549ec5200eaa.png)
 
+En AB ES 6.6kohms
+En BC es 3.3 kohms
+En CD es 0 ohms
 Divisores de voltaje con cargas resistivas
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V.Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
 
+![image](https://user-images.githubusercontent.com/116814386/208567420-af542453-19bf-4319-a066-ee6b42909792.png)
+ 
 27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
 
-29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
+Sera la de 47 kohms
+
+29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kΩ conectada entre A y B.
 
 ![image](https://user-images.githubusercontent.com/116814386/206827763-dd489249-f3ff-48cd-b8b1-1d3dce4790d7.png)
 
-31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kÆ a cada toma, una a la vez
+![image](https://user-images.githubusercontent.com/116814386/208568155-af5a641a-3d56-44c0-8cac-14bdc47ee609.png)
+
+31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez
 
 *33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
 
@@ -168,13 +191,19 @@ Efecto de carga de un voltímetro
 
 (d) 1000 V  
 
+La minima carga sera en el intervalo de 1000V 
+
 37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
 
 ![image](https://user-images.githubusercontent.com/116814386/206827939-913a9254-56fc-41d5-bb47-c96d0192381a.png)
 
 (a) ¿Qué intervalo se deberá utilizar?
 
+Sera en el intervalo de 0.5 v
+
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+Es aproximadamente 1mV 
 
 Redes en escalera
 
@@ -182,13 +211,7 @@ Redes en escalera
 
 ![image](https://user-images.githubusercontent.com/116814386/206828002-b6f0c3bf-0263-4087-a1db-c9c3dec7de2c.png)
 
-(a) La resistencia total entre las terminales de la fuente 
-
-(b) La corriente total suministrada por la fuente
-
-(c) La corriente a través del resistor de 910 Æ 
-
-(d) El voltaje desde el punto A hasta el punto B
+![image](https://user-images.githubusercontent.com/116814386/208586631-9081930c-aec2-4ec6-a542-1ebd6334b3d7.png)
 
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
@@ -198,94 +221,36 @@ Redes en escalera
 
 ![image](https://user-images.githubusercontent.com/116814386/206828053-1a287c2c-8434-4ae8-8e42-d9a47d37db95.png)
 
-45. Repita el problema 44 para las siguientes condiciones
-
-(a) SW3 y SW4 conectados a+12 V, SW1 y SW2 a tierra
-
-(b) SW3 y SW1 conectados a+12 V, SW2 y SW4 a tierra
-
-(c) Todos los interruptores conectados a + 12 V
+![image](https://user-images.githubusercontent.com/116814386/208593044-0188d915-2804-438c-bca7-6ff726a93719.png)
 
  El puente Wheatstone 
  
- 47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia limitada de120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión ncrementan su resistencia en 60 mÆ, a 120,060 Æ, y los medidores a compresión disminuyen su resistencia en 60 mÆ, a 119.940 Æ, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga
- 
+ 47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia limitada de120,000 Æ para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión ncrementan su resistencia en 60 mÆ, a 120,060 Ω, y los medidores a compresión disminuyen su resistencia en 60 mΩ, a 119.940 Ω, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga
+
+![image](https://user-images.githubusercontent.com/116814386/208593747-bf7afb77-8b43-4f57-8b38-4da8b69f69f2.png)
+
 
 Ejercicios capitulo 2
 
-Ecuaciones simultáneas en el análisis de circuitos
+SECCIÓN 8–3 Conversiones de fuente
 
-1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
+1.	Una fuente de voltaje tiene los valores VS=300 V y RS=50 Ω. Conviértala en una fuente de corriente equivalente.
 
-100I1 + 50I2 = 30
+![image](https://user-images.githubusercontent.com/116814386/208594258-63759374-0239-4a7e-8550-73a4887ff734.png)
 
-75I1 + 90I2 = 15
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
-3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
+![image](https://user-images.githubusercontent.com/116814386/208595303-e385f9ff-e78e-47b6-b60f-e5268fe21abf.png)
 
--I1 + 2I2 = 4
+5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kΩ. Conviértala en una fuente de voltaje equivalente.
 
-7I1 + 3I2 = 6
+![image](https://user-images.githubusercontent.com/116814386/208595442-0f083c77-b7f2-44f6-a97a-c8487fc56504.png)
 
-5. Evalúe cada uno de los determinantes:
+SECCIÓN 8–4 El teorema de superposición
 
-![image](https://user-images.githubusercontent.com/116814386/206828260-571edc9b-85c9-46a5-a91c-b84dd89bb852.png)
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69
 
-7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
-
-2I1 - 6I2 + 10I3 = 9
-
- 3I1 + 7I2 - 8I3 = 3
-
- 10I1 + 5I2 - 12I3 = 0
-
-
-9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora.
-
-Método de la corriente en ramas
-
-11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A n la figura 9-26.
-
-![image](https://user-images.githubusercontent.com/116814386/206828317-5382b827-f929-48c1-9429-5872af876e47.png)
-  
-13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique a polaridad real.
-
-15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B). 
-
-![image](https://user-images.githubusercontent.com/116814386/206828345-a0cb368d-b09b-4744-aae2-2107179efb85.png)
-
-17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
-
-![image](https://user-images.githubusercontent.com/116814386/206828367-58a37e2b-766b-4e5e-bcc5-5ff0f996a24b.png)
-
-
-19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
-
-
-21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora. 
-
-![image](https://user-images.githubusercontent.com/116814386/206828378-a810311e-4c8d-4596-ab8e-8fd5275cc2f2.png)
-
-23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
-
-![image](https://user-images.githubusercontent.com/116814386/206828390-6dd94295-7edf-4bae-ab20-0bff3f5230a2.png)
-
-25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31. 
-
-![image](https://user-images.githubusercontent.com/116814386/206828401-4b599c2d-c0b4-499c-b9f8-7956248d040d.png)
-
-27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
-
-![image](https://user-images.githubusercontent.com/116814386/206828422-1634594c-96f7-4821-8b48-a6ea66f28146.png)
-
-29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33
-
-![image](https://user-images.githubusercontent.com/116814386/206828442-a82e79ce-9bc9-4516-8166-39f5933f762e.png)
-
-
-31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
-
-![image](https://user-images.githubusercontent.com/116814386/206828468-64e102cf-bf70-46c1-beee-4cab2232ea59.png)
+![image](https://user-images.githubusercontent.com/116814386/208595599-46e4355d-64e1-40b4-ac88-653065472fde.png)
 
 
 Video 
