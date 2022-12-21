@@ -252,6 +252,73 @@ SECCIÓN 8–4 El teorema de superposición
 
 ![image](https://user-images.githubusercontent.com/116814386/208595599-46e4355d-64e1-40b4-ac88-653065472fde.png)
 
+![image](https://user-images.githubusercontent.com/116814386/208788713-28ba15a2-0d31-4e44-8132-0c6973159ccd.png)
+
+9.  Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+![image](https://user-images.githubusercontent.com/116814386/208789096-2504da49-aa6e-46fb-96bf-20180e579eb7.png)
+
+![image](https://user-images.githubusercontent.com/116814386/208789180-d4c3916f-1806-458a-92cc-bdb422336278.png)
+
+11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, V ENTRADA, se compara con el voltaje de referencia, V REFERENCIA, y se genera una salida negativa si V REFERENCIA > V ENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
+
+![image](https://user-images.githubusercontent.com/116814386/208789422-57b0dce4-9ed7-464a-92c8-424536b0485d.png)
+
+13. Determine el voltaje del punto A al punto B en la figura 8-73.
+
+![image](https://user-images.githubusercontent.com/116814386/208789517-aefb2ed1-de8e-4a53-b271-43e361c803e9.png)
+
+![image](https://user-images.githubusercontent.com/116814386/208789769-9b279c96-b927-448e-b237-688c82ca46dc.png)
+
+15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+![image](https://user-images.githubusercontent.com/116814386/208790682-327ab740-079d-4994-829b-010cbad08dae.png)
+
+![image](https://user-images.githubusercontent.com/116814386/208792047-fe0f2bba-e22e-46e5-8e18-549245f0f6df.png)
+
+![image](https://user-images.githubusercontent.com/116814386/208792262-b6f9e01f-361a-49dd-be84-b2df410156bc.png)
+
+17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77. 
+
+![image](https://user-images.githubusercontent.com/116814386/208792314-32778099-14d9-436d-82f4-549e38bb86aa.png)
+
+![image](https://user-images.githubusercontent.com/116814386/208792468-91dac003-92dd-4bfe-b3c6-7e267b91f8dd.png)
+
+19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. 
+
+![image](https://user-images.githubusercontent.com/116814386/208792516-9cb51a07-3a21-4719-8907-25f05db64e63.png)
+
+![image](https://user-images.githubusercontent.com/116814386/208792779-5724aec4-0a57-4b1f-b340-e5f93c4a443f.png)
+
+*21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/116814386/208792820-6b707034-af56-42f1-8a06-b6bd4f6cafb7.png)
+
+![image](https://user-images.githubusercontent.com/116814386/208793205-486a95d3-1a21-46fb-9a45-458fc2c9f6ce.png)
+
+Teorema de Norton
+
+23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+
+a)
+
+![image](https://user-images.githubusercontent.com/116814386/208797256-b1c69427-67de-414e-b4e9-46e7c282d976.png)
+
+b) 
+
+![image](https://user-images.githubusercontent.com/116814386/208797604-764ea8ac-d8fa-40cc-86d3-d9f6de368870.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/116814386/208797909-9febb20d-6759-4d59-b8fc-460054ebece3.png)
+
+* 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/116814386/208798166-c61360df-f9e3-4fe5-aea5-1ab2db2e391e.png)
+
+Conclusiones 
+
+Se pudo relacionar los conocimientos de los circuitos electricos en serie y paralelo para relacionarlos con circuitos que combinen circuitos en serie y paralelo 
+
+Se pudo entender los teoremas de circuitos como el de norton y su relacion con los circuitos en serie y paralelo
 
 Video 
 
